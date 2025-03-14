@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/ankit-bhandari-35089728b/">Ankit Bhandari</a></h1>
-## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I am Sachin 👨‍🎓
+## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I am Ankit 👨‍🎓
 
 <!--Header-->
   <div>
