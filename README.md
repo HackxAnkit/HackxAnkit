@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=40&pause=1000&color=09FEFF&center=true&vCenter=true&width=435&lines=++Hi+There+%2C+I+am+Ankit+Bhandari+%E2%99%94%F0%9F%98%8E;Passionate+full+stack+developer+from+India" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=40&pause=1000&color=09FEFF&center=true&vCenter=true&width=435&lines=++Hi+There+%2C+I+am+Ankit+Bhandari+%E2%99%94%F0%9F%98%8E;Passionate+full+stack+develope;from+India" alt="Typing SVG" /></a>
 
 
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/ankit-bhandari-35089728b/">Ankit Bhandari</a></h1>
