@@ -1,4 +1,4 @@
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=4000&size=29&pause=1000&color=2BFF0C&width=435&lines=Hi+There+%2C+I+am+Ankit+Bhandari+%E2%99%94%F0%9F%98%8E" alt="Typing SVG" /></a>
 
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/ankit-bhandari-35089728b/">Ankit Bhandari</a></h1>
 ## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I am Ankit 👨‍🎓
