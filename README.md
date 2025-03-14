@@ -84,26 +84,6 @@ but also gives you various benefits which can improve the quality of your life. 
 
 ##
 
-
-
-
-
-<!--Github Progess bar-->
-
-## Quick Overview 📝
-<div>
-<img align="left" width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hackcoderr&show_icons=true&include_all_commits=true&theme=radical" alt="Sachin's github stats" />
-</p>
-<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hackcoderr&theme=tokyonight" alt="hackcoderr"/>
- <img align="center"  width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hackcoderr&layout=compact&theme=radical" alt="hackcoderr" />
-  <img align="right"  width="40%" src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=17695132" alt="hackcoderr" />
- 
- <p align="center"> 
-  <div>
-
-
-<!--footer-->
-
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+919084369325) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
 
