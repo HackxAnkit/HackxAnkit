@@ -4,7 +4,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/ankit-bhandari-35089728b/">Ankit Bhandari</a></h1>
 ## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I am Ankit 👨‍🎓
 My Leet code 50 days badge
- <img width="100%" alt="" src="https://assets.leetcode.com/static_assets/others/badge-background.png">
+ 
 <img alt="" class="absolute left-[50%] top-[50%] -translate-x-1/2 -translate-y-1/2 w-[162px]" src="https://assets.leetcode.com/static_assets/others/2550.gif">
 
 ## About Me ✍
@@ -126,4 +126,6 @@ but also gives you various benefits which can improve the quality of your life. 
 HackxAnkit/HackxAnkit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<img width="100%" alt="" src="https://assets.leetcode.com/static_assets/others/badge-background.png">
 
