@@ -84,11 +84,11 @@ but also gives you various benefits which can improve the quality of your life. 
 ##
 
 ##
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+919084369325) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+918755088366) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
 
 
 <div align="center">
-<a href="https://github.com/hackcoderr" target="_blank">
+<a href="https://github.com/HackxAnkit" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=61552900949959" target="_blank">
@@ -115,7 +115,7 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 
-<a href="https://github.com/hackcoderr/hackcoderr"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
+<a href="https://github.com/HackxAnkit"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
 
 
 
