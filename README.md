@@ -96,10 +96,10 @@ but also gives you various benefits which can improve the quality of your life. 
 </a>
 <a href="https://medium.com/@hackcoderr" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/hackcoderr" target="_blank">
+<a href="https://www.linkedin.com/in/ankit-bhandari-35089728b/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/hackcoderr" target="_blank">
+<a href="https://www.instagram.com/ankitbhandari89/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
