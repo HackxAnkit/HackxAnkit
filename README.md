@@ -1,6 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=40&duration=2000&pause=1000&color=5CFF7E&background=000A0B&width=435&lines=++Hi+There+%2C+I+am+Ankit+Bhandari+++++++++++++%F0%9F%91%8B%F0%9F%8F%BB;Passionate+Full+Stack+Developer+;+From+India" alt="Typing SVG" /></a>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9df3c753-2b32-4183-93b9-cc714d83c902" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9df3c753-2b32-4183-93b9-cc714d83c902" data-share-badge-host="https://www.credly.com"></div>
+
 
 
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/ankit-bhandari-35089728b/">Ankit Bhandari</a></h1>
