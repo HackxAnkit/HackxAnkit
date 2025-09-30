@@ -6,7 +6,7 @@
 <b><i><h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/ankit-bhandari-35089728b/">Ankit Bhandari</a></h1></i></b>
 <i><b>## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I am Ankit 👨‍🎓 My Leet code badges</i></b>
  
-<p align="center">
+<p align="left">
  <img alt="" class="absolute left-[50%] top-[50%] -translate-x-1/2 -translate-y-1/2 w-[162px]" src="https://assets.leetcode.com/static_assets/others/2550.gif" style="width:100px;height:auto;">
 <img alt="" class="absolute left-[50%] top-[50%] -translate-x-1/2 -translate-y-1/2 w-[162px]" src="https://assets.leetcode.com/static_assets/others/25100.gif" style="width:100px;height:auto;">
 </p>
