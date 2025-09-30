@@ -9,6 +9,8 @@ My Leet code 50 days badge
  
 <img alt="" class="absolute left-[20%] top-[20%] -translate-x-1/4 -translate-y-1/4 w-[1200px]" src="https://assets.leetcode.com/static_assets/others/2550.gif" style="width:100px;height:auto;">
 
+<img alt="" class="absolute left-[50%] top-[50%] -translate-x-1/2 -translate-y-1/2 w-[162px]" src="https://assets.leetcode.com/static_assets/others/25100.gif">
+
 
 ## About Me ✍
  
