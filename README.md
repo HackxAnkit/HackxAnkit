@@ -3,7 +3,7 @@
 <a href="https://hackxankit.github.io/resume">Resume</a>
 
 
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/ankit-bhandari-35089728b/">Ankit Bhandari</a></h1>
+<b><i><h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/ankit-bhandari-35089728b/">Ankit Bhandari</a></h1></i></b>
 ## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I am Ankit 👨‍🎓
 <i><b>My Leet code badges</i></b>
  
