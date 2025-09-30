@@ -7,7 +7,7 @@
 ## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I am Ankit 👨‍🎓
 My Leet code 50 days badge
  
-<img alt="" class="absolute left-[50%] top-[50%] -translate-x-1/2 -translate-y-1/2 w-[162px]" src="https://assets.leetcode.com/static_assets/others/2550.gif">
+<img alt="" class="absolute left-[50%] top-[50%] -translate-x-1/2 -translate-y-1/2 w-[12px]" src="https://assets.leetcode.com/static_assets/others/2550.gif">
 
 ## About Me ✍
  
