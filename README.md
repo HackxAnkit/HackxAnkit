@@ -7,8 +7,8 @@
 <i><b>## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I am Ankit 👨‍🎓 My Leet code badges</i></b>
  
 <p align="left">
- <img alt="" class="absolute left-[50%] top-[50%] -translate-x-1/2 -translate-y-1/2 w-[162px]" src="https://assets.leetcode.com/static_assets/others/2550.gif" style="width:100px;height:auto;">
-<img alt="" class="absolute left-[50%] top-[50%] -translate-x-1/2 -translate-y-1/2 w-[162px]" src="https://assets.leetcode.com/static_assets/others/25100.gif" style="width:100px;height:auto;">
+ <img alt="" class="absolute left-[50%] top-[50%] -translate-x-1/2 -translate-y-1/2 w-[162px]" src="https://assets.leetcode.com/static_assets/others/2550.gif" style="width:150px;height:auto;">
+<img alt="" class="absolute left-[50%] top-[50%] -translate-x-1/2 -translate-y-1/2 w-[162px]" src="https://assets.leetcode.com/static_assets/others/25100.gif" style="width:150px;height:auto;">
 </p>
 
 
