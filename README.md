@@ -13,11 +13,8 @@
   style="width:150px;height:auto;">
  <img alt="badge background" class="absolute left-0 right-0 h-[160px] w-[160px]" src="https://assets.leetcode.com/static_assets/others/badge-background.png"
   style="width:150px;height:auto;">
-
- <div class="relative flex h-[160px] w-[160px] items-center justify-center"><img alt="badge background" class="absolute left-0 right-0 h-[160px] w-[160px]" src="https://assets.leetcode.com/static_assets/others/badge-background.png"><img alt="badge gif" class="z-modal-6 h-[120px] w-[120px]" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif"></div>
- <img alt="badge background" class="absolute left-0 right-0 h-[160px] w-[160px]" src="https://assets.leetcode.com/static_assets/others/badge-background.png">
- <img alt="badge gif" class="z-modal-6 h-[120px] w-[120px]" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif">
- <div class="relative flex h-[160px] w-[160px] items-center justify-center"><img alt="badge background" class="absolute left-0 right-0 h-[160px] w-[160px]" src="https://assets.leetcode.com/static_assets/others/badge-background.png"><img alt="badge gif" class="z-modal-6 h-[120px] w-[120px]" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif"></div>
+ <img alt="" class="z-modal-6 h-[120px] w-[120px]" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif"
+  style="width:150px;height:auto;">
 </p>
 
 
