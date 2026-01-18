@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=40&duration=2000&pause=1000&color=5CFF7E&background=000A0B&width=435&lines=++Hi+There+%2C+I+am+Ankit+Bhandari+++++++++++++%F0%9F%91%8B%F0%9F%8F%BB;Passionate+Full+Stack+Developer+;+From+India" alt="Typing SVG" /></a>
 
-<a href="https://hackxankit.github.io/resume">Resume</a>
-
+<a href="https://hackxankit.github.io/resume">Portfolio</a>
+<a href="https://hackxankit.github.io/CASH-FLOW--MINIMIZER-PRO/">Cash Flow Minimizer</a>
 
 <b><i><h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/ankit-bhandari-35089728b/">Ankit Bhandari</a></h1></i></b>
 <i><b>## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I am Ankit 👨‍🎓 My Leet code badges</i></b>
@@ -23,7 +23,6 @@
 
 </div>
 
-https://youtu.be/I3oUlAKQm4I
 <!--technical skills-->
 
 ## Technical Skills 🛠 
