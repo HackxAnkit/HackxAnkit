@@ -125,6 +125,7 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 
+<img width="572" height="371" alt="image" src="https://github.com/user-attachments/assets/b8449d00-212e-4e66-81c4-8809e6ef6529" />
 
 
 [![An image of @hackxankit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hackxankit)](https://holopin.io/@hackxankit)
