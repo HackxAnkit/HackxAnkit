@@ -108,15 +108,8 @@ but also gives you various benefits which can improve the quality of your life. 
 <a href="https://www.instagram.com/ankitbhandari89/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-
-
-</div>  
-  
-
-<br/>  
-
-   
-<img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+</div> 
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single+Ink&size=30&pause=1000&color=1BEE46&width=435&lines=My+GSSOC+BADGES)](https://git.io/typing-svg)
 
@@ -135,16 +128,14 @@ but also gives you various benefits which can improve the quality of your life. 
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
 
-
+[![An image of @hackxankit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hackxankit)](https://holopin.io/@hackxankit)
 
 <a href="https://github.com/HackxAnkit"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
 
 
 
 <img width="572" height="371" alt="image" src="https://github.com/user-attachments/assets/b8449d00-212e-4e66-81c4-8809e6ef6529" />
-
-
-[![An image of @hackxankit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hackxankit)](https://holopin.io/@hackxankit)
+<img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <!---
 HackxAnkit/HackxAnkit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
