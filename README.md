@@ -1,17 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=40&duration=2000&pause=1000&color=5CFF7E&background=000A0B&width=435&lines=++Hi+There+%2C+I+am+Ankit+Bhandari+++++++++++++%F0%9F%91%8B%F0%9F%8F%BB;Passionate+Full+Stack+Developer+;+From+India" alt="Typing SVG" /></a>
 
 <b><i><h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/ankit-bhandari-35089728b/">Ankit Bhandari</a></h1></i></b>
-<i><b>## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I am Ankit 👨‍🎓 My Leet code badges</i></b>
- 
-<p align="left">
- <img alt="" class="absolute left-[50%] top-[50%] -translate-x-1/2 -translate-y-1/2 w-[162px]" src="https://assets.leetcode.com/static_assets/others/2550.gif" style="width:150px;height:auto;">
-<img alt="" class="absolute left-[50%] top-[50%] -translate-x-1/2 -translate-y-1/2 w-[162px]" src="https://assets.leetcode.com/static_assets/others/25100.gif" style="width:150px;height:auto;">
- <img alt="" class="z-modal-6 h-[120px] w-[120px]" src="https://assets.leetcode.com/static_assets/others/Guardian.gif"
-  style="width:150px;height:auto;">
- <img alt="" class="z-modal-6 h-[120px] w-[120px]" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif"
-  style="width:150px;height:auto;">
-</p>
-
 
 ## About Me 
  
@@ -110,6 +99,17 @@ but also gives you various benefits which can improve the quality of your life. 
 </a>  
 </div> 
 <br/>
+
+<i><b>## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I am Ankit 👨‍🎓 My Leet code badges</i></b>
+ 
+<p align="left">
+ <img alt="" class="absolute left-[50%] top-[50%] -translate-x-1/2 -translate-y-1/2 w-[162px]" src="https://assets.leetcode.com/static_assets/others/2550.gif" style="width:150px;height:auto;">
+<img alt="" class="absolute left-[50%] top-[50%] -translate-x-1/2 -translate-y-1/2 w-[162px]" src="https://assets.leetcode.com/static_assets/others/25100.gif" style="width:150px;height:auto;">
+ <img alt="" class="z-modal-6 h-[120px] w-[120px]" src="https://assets.leetcode.com/static_assets/others/Guardian.gif"
+  style="width:150px;height:auto;">
+ <img alt="" class="z-modal-6 h-[120px] w-[120px]" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif"
+  style="width:150px;height:auto;">
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single+Ink&size=30&pause=1000&color=1BEE46&width=435&lines=My+GSSOC+BADGES)](https://git.io/typing-svg)
 
