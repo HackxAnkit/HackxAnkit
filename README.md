@@ -1,37 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=40&duration=2000&pause=1000&color=5CFF7E&background=000A0B&width=435&lines=++Hi+There+%2C+I+am+Ankit+Bhandari+++++++++++++%F0%9F%91%8B%F0%9F%8F%BB;Passionate+Full+Stack+Developer+;+From+India" alt="Typing SVG" /></a>
-
 <b><i><h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/ankit-bhandari-35089728b/">Ankit Bhandari</a></h1></i></b>
 
-<h3 align="center">
-  I'm Ankit Bhandari
-</h3>
-
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
-    <img alt="mglsj's most used languages" src="assets/languages-light.svg" width="224"
-    height="209" align="left" />
-  </picture>
-
-  I tell computers to do stuff.
-  <br/>
-  Sometimes they listen
-  <br/>
-  <br/>
-  #[PCMR](https://pcmasterrace.org/) #[OpenSource](https://en.wikipedia.org/wiki/Open_source)
-</div>
-<br/>
-<br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img alt="mglsj's GitHub contributions" src="assets/stats-light.svg" />
-</picture>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mglsj/mglsj/snake/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mglsj/mglsj/snake/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mglsj/mglsj/snake/github-snake.svg" />
-</picture>
+<a> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=40&duration=2000&pause=1000&color=5CFF7E&background=000A0B&width=435&lines=++Hi+There+%2C+I+am+Ankit+Bhandari+++++++++++++%F0%9F%91%8B%F0%9F%8F%BB;Passionate+Full+Stack+Developer+;+From+India" alt="Typing SVG" /></a>
 
 
 ## About Me 
@@ -44,11 +13,6 @@
 <!--technical skills-->
 
 ## Technical Skills 🛠 
-
-<img align='left' src='https://github.com/hackcoderr/hackcoderr/blob/main/assets/about.png' width="240" height="230" >
-
-As we all know that under <b>engineering</b>, technical skills always provide unique gratitude and passion for any technical guy. So these technical skills of the engineer always help him, in the same way at all the time, Just as <b>Yodhya</b> protects his life from his enemies using the weapons and scriptures in a war. I am also an engineer, so I too should have such weapons and scriptures, so I have some technical skills too,  which are the following but I am also in a learning state and learning many tools and technologies.
-
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -76,17 +40,7 @@ As we all know that under <b>engineering</b>, technical skills always provide un
  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
  [![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
-
-
-
- <!--My Hobbies-->
- 
- 
-
 ## My Hobbies ✍
-
-<img align='left' src='https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif' width='200'>
- 
 Having a hobby is a <b>great</b> <img align='right' src='https://github.com/hackcoderr/hackcoderr/blob/main/assets/hobby.png' width='300"'><b>thing</b> for each and everyone because it not only entertains you,
 but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of books. I have also started writing so that I could make my hobby as my profession and some of them are as follows.
 ##
@@ -132,7 +86,7 @@ but also gives you various benefits which can improve the quality of your life. 
 </div> 
 <br/>
 
-<i><b>## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I am Ankit 👨‍🎓 My Leet code badges</i></b>
+## <i><b>## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>!,My Leet code badges</i></b>
  
 <p align="left">
  <img alt="" class="absolute left-[50%] top-[50%] -translate-x-1/2 -translate-y-1/2 w-[162px]" src="https://assets.leetcode.com/static_assets/others/2550.gif" style="width:150px;height:auto;">
