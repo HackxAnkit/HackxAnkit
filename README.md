@@ -2,6 +2,38 @@
 
 <b><i><h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/ankit-bhandari-35089728b/">Ankit Bhandari</a></h1></i></b>
 
+<h3 align="center">
+  I'm Ankit Bhandari
+</h3>
+
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
+    <img alt="mglsj's most used languages" src="assets/languages-light.svg" width="224"
+    height="209" align="left" />
+  </picture>
+
+  I tell computers to do stuff.
+  <br/>
+  Sometimes they listen
+  <br/>
+  <br/>
+  #[PCMR](https://pcmasterrace.org/) #[OpenSource](https://en.wikipedia.org/wiki/Open_source)
+</div>
+<br/>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img alt="mglsj's GitHub contributions" src="assets/stats-light.svg" />
+</picture>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mglsj/mglsj/snake/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mglsj/mglsj/snake/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mglsj/mglsj/snake/github-snake.svg" />
+</picture>
+
+
 ## About Me 
  
  I'm <b> Ankit Bhandari</b>, a curious person, Who wants to know every bit of **DevOps** and **Cloud Computing**. I am keen to learn new things every day and passionate about exploring the latest technologies from a learning perspective, and always looking forward to migrating them, To be profitable to the organization and I believe in continuous improvement in myself. I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
