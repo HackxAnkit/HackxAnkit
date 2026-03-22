@@ -63,8 +63,12 @@ but also gives you various benefits which can improve the quality of your life. 
 </p>
 
 ##
-
-##
+ <picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mglsj/mglsj/snake/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mglsj/mglsj/snake/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mglsj/mglsj/snake/github-snake.svg" />
+ </picture>
+ 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+918755088366) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
 
 
