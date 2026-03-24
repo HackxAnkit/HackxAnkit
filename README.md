@@ -122,6 +122,8 @@ but also gives you various benefits which can improve the quality of your life. 
 
 <a href="https://github.com/HackxAnkit"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
 
+<img width="752" height="520" alt="Screenshot 2026-03-24 at 12 00 54 PM" src="https://github.com/user-attachments/assets/3a578617-aa64-48e8-a333-466eed15039b" />
+
 
 
 <img width="572" height="371" alt="image" src="https://github.com/user-attachments/assets/b8449d00-212e-4e66-81c4-8809e6ef6529" />
