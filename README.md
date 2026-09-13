@@ -57,7 +57,7 @@ I am a results-driven **Software Engineer** specializing in **Full-Stack Develop
 A strong engineer requires strong fundamentals. I consistently challenge myself with complex data structures and algorithmic design to write highly optimized code. 
 
 <p align="left">
-  <a href="https://leetcode.com/u/Ankit_Bhandari1/"><img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="LeetCode" style="vertical-align:top; margin:4px; width:40px;"></a>
+  <a href="https://leetcode.com/u/Ankit___Bhandari"><img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="LeetCode" style="vertical-align:top; margin:4px; width:40px;"></a>
   <a href="https://www.hackerrank.com/profile/ankitbhandari836"><img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="HackerRank" style="vertical-align:top; margin:4px; width:40px;"></a>
   <a href="https://www.codechef.com/users/ankitbhandari1"><img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="CodeChef" style="vertical-align:top; margin:4px; width:40px;"></a>
 </p>
