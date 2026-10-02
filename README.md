@@ -67,6 +67,7 @@ A strong engineer requires strong fundamentals. I consistently challenge myself 
   <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="120" alt="LeetCode Badge 2">
   <img src="https://assets.leetcode.com/static_assets/others/Guardian.gif" width="120" alt="LeetCode Guardian">
   <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" width="120" alt="LeetCode 365">
+  <img src="https://assets.leetcode.com/static_assets/others/Knight.gif" width="120" alt="LeetCode 365">
 </p>
 
 ---
